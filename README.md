@@ -16,7 +16,7 @@ Authentication – JWT-based authentication
 Charts & Visualization – Recharts/D3.js
 # 🔹 Installation
 # Clone the repository:
-git clone https://github.com/yourusername/personal-finance-dashboard.git
+git clone https://github.com/GowthamPitla/personal-finance-dashboard.git
 # Install dependencies:
 cd personal-finance-dashboard
 npm install
